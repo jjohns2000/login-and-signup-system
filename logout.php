@@ -1,3 +1,4 @@
+<!-- simple logout page  -->
 <?php
 session_start(); 
 $_SESSION = array();// To reset the session variables.
