@@ -1,3 +1,4 @@
+<!-- simple login verification page -->
 <?php
 session_start();
 if(isset($_POST['submit']))
