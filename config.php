@@ -1,3 +1,4 @@
+<!--  basic database connection page for login -->
 <?php
 session_start();
 $host = "localhost";
