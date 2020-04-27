@@ -1,3 +1,4 @@
+<!-- simple signup verification page -->
 <?php
 
 if(isset($_POST['submit']))
